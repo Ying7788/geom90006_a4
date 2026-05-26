@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data_raw/abs_boundary/ASGS_2021_Main_Structure_GDA2020.gpkg
+data_raw/open_space/VPA_Draft_Open_Space_Data_-7361858239455755329.geojson
