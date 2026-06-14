@@ -1,0 +1,21 @@
+data/
+    ├── raw/
+    │   ├── boundary/
+    │   │   ├── greater_melbourne_boundary.gpkg
+    │   │   ├── sa2_greater_melbourne.gpkg
+    │   │   └── sa2_analysis_area.gpkg
+    │   │
+    │   ├── census/
+    │   │   ├── 2021Census_G01_VIC_SA2.csv
+    │   │   └── 2021Census_G02_VIC_SA2.csv
+    │   │
+    │   ├── open_space/
+    │   │   └── open_space_melbourne.gpkg
+    │   │
+    │   ├── urban_heat/
+    │   │   └── urban_heat.gpkg
+    │   │
+    │   └── landcover.tif
+    │
+    └── processed/
+        └── q2_green_heat_with_tree_count.gpkg
